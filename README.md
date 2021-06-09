@@ -1,6 +1,2 @@
-# SmartBrain - v2
-Final project for ZTM course
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+# SmartBrain 
+This project comes from the Zero to Mastery: Junior to Senior Developer course. It is a facial recognition app that uses an API to detect faces and places a square around recognized faces when displaying the image.
